@@ -3,7 +3,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/br14nplayer)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brian_luccaa?igshid=MzMyNGUyNmU2YQ==)
 
-![Brianlucca GitHub stats](https://github-readme-stats.vercel.app/api?username=Brianlucca&show_icons=true&theme=dracula)<br/>
+![Brianlucca GitHub stats](https://github-readme-stats.vercel.app/api?username=Brianlucca&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlucca&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
