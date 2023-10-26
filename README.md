@@ -15,7 +15,7 @@
 
 
 ## Sobre Mim
-Eu sou um desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.<br><br>
+Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.<br><br>
 
 :telescope: Sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo sobre o desenvolvimento de aplicações web, tanto no frontend quanto no backend.
 
