@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3390FF&height=120&section=header"/>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     
@@ -10,11 +10,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/12XxYnYLMEn6yA/giphy.gif" width="600" height="300"/>
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
 
-## Sobre Mim
+### Sobre Mim
 Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.<br><br>
 
 :telescope: Sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo sobre o desenvolvimento de aplicações web, tanto no frontend quanto no backend.
@@ -34,12 +34,10 @@ Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlp
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Firebase" alt="VisualStudio" width="40" height="40"/>
-
-
 </div>
 
 ## My Stats
 ![Brianlucca GitHub stats](https://github-readme-stats.vercel.app/api?username=Brianlucca&show_icons=true&theme=transparent)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlucca&theme=transparent&layout=compact)
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3390FF&height=120&section=footer"/>
