@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3390FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     
@@ -40,4 +40,4 @@ Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlp
 ![Brianlucca GitHub stats](https://github-readme-stats.vercel.app/api?username=Brianlucca&show_icons=true&theme=transparent)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlucca&theme=transparent&layout=compact)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3390FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
