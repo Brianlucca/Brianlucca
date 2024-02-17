@@ -16,19 +16,12 @@
 
 ### :man_technologist: Sobre Mim
 Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.<br><br>
-
 :telescope: Sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo sobre o desenvolvimento de aplicações web, tanto no frontend quanto no backend.
-
-:notebook_with_decorative_cover:  No momento, estou explorando conteúdo relacionado ao desenvolvimento back-end. Estou focando em aprender sobre frameworks e tecnologias utilizadas no desenvolvimento de servidores. Estou estudando a linguagem JavaScript, bem como o Node.js,  Estou me familiarizando com o uso do Node.js para criar aplicações back-end. Estou animado para aprofundar meus conhecimentos nessa área e aplicá-los em projetos práticos.
-
- :zap: No meu tempo livre, além de estudar e explorar conteúdo relacionado ao desenvolvimento back-end, eu gosto de me divertir com outras atividades. Uma delas é ouvir música, que me ajuda a relaxar e inspirar. Gosto de explorar diferentes gêneros musicais e descobrir novos artistas.
-
-:video_game:Além disso, sou fã de jogos e costumo passar parte do meu tempo livre jogando. Eu me inclino mais para jogos solos, como o Starfield,  acho esses jogos envolventes e cativantes, permitindo-me mergulhar em aventuras virtuais e explorar mundos fascinantes.
-
 
 ## :hammer_and_wrench: Linguagens e Ferramentas
 <div style="display: inline_block"><br/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
