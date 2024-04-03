@@ -9,28 +9,25 @@
 ##
 </div>
 
-<div align="center">
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-</div>
-
-
 ### :man_technologist: Sobre Mim
 Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.<br><br>
 :telescope: Sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo sobre o desenvolvimento de aplicações web, tanto no frontend quanto no backend.
 
 ## :hammer_and_wrench: Linguagens e Ferramentas
-<div style="display: inline_block"><br/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Firebase" alt="VisualStudio" width="40" height="40"/>
-</div>
+ <div align="center">
+     
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+ </div>
+
+
 
 ## :fire: My Stats
-![Brianlucca GitHub stats](https://github-readme-stats.vercel.app/api?username=Brianlucca&show_icons=true&theme=transparent)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlucca&theme=transparent&layout=compact)
+<div align="center">
+    
+  <img height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlucca&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Brianlucca&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
