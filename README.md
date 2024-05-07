@@ -15,22 +15,20 @@ Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlp
 
 ## :hammer_and_wrench: Linguagens e Ferramentas
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" title='React' />
-    <img src="https://skillicons.dev/icons?i=js" title='JavaScript' />
-    <img src="https://skillicons.dev/icons?i=ts" title='TypeScript' />
-    <img src="https://skillicons.dev/icons?i=html" title='HTML' />
-    <img src="https://skillicons.dev/icons?i=css" title='CSS' />
-    <img src="https://skillicons.dev/icons?i=tailwind" title='TailWind' />
-    <img src="https://skillicons.dev/icons?i=styledcomponents" title='StyledComponents' />
-    <img src="https://skillicons.dev/icons?i=firebase" title='Firebase' />
-    <img src="https://skillicons.dev/icons?i=git" title='Git' />
-    <img src="https://skillicons.dev/icons?i=npm" title='NPM' />
-    <img src="https://skillicons.dev/icons?i=vercel" title='Vercel' />
-    <img src="https://skillicons.dev/icons?i=vite" title='Vite' />
-    <img src="https://skillicons.dev/icons?i=figma" title='Figma' />
-    <img src="https://skillicons.dev/icons?i=vscode" title='Visual Code' />
-  </a>
+    <img src="https://skillicons.dev/icons?i=react" title="React"/>
+    <img src="https://skillicons.dev/icons?i=js" title='JavaScript'/>
+    <img src="https://skillicons.dev/icons?i=ts" title='TypeScript'/>
+    <img src="https://skillicons.dev/icons?i=html" title='HTML'/>
+    <img src="https://skillicons.dev/icons?i=css" title='CSS'/>
+    <img src="https://skillicons.dev/icons?i=tailwind" title='TailWind'/>
+    <img src="https://skillicons.dev/icons?i=styledcomponents" title='StyledComponents'/>
+    <img src="https://skillicons.dev/icons?i=firebase" title='Firebase'/>
+    <img src="https://skillicons.dev/icons?i=git" title='Git'/>
+    <img src="https://skillicons.dev/icons?i=npm" title='NPM'/>
+    <img src="https://skillicons.dev/icons?i=vercel" title='Vercel'/>
+    <img src="https://skillicons.dev/icons?i=vite" title='Vite'/>
+    <img src="https://skillicons.dev/icons?i=figma" title='Figma'/>
+    <img src="https://skillicons.dev/icons?i=vscode" title='Visual Code'/>
 </p>
 
 
