@@ -14,12 +14,24 @@ Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlp
 :telescope: Sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo sobre o desenvolvimento de aplicações web, tanto no frontend quanto no backend.
 
 ## :hammer_and_wrench: Linguagens e Ferramentas
- <div align="center">
-     
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
- </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" title='React' />
+    <img src="https://skillicons.dev/icons?i=js" title='JavaScript' />
+    <img src="https://skillicons.dev/icons?i=ts" title='TypeScript' />
+    <img src="https://skillicons.dev/icons?i=html" title='HTML' />
+    <img src="https://skillicons.dev/icons?i=css" title='CSS' />
+    <img src="https://skillicons.dev/icons?i=tailwind" title='TailWind' />
+    <img src="https://skillicons.dev/icons?i=styledcomponents" title='StyledComponents' />
+    <img src="https://skillicons.dev/icons?i=firebase" title='Firebase' />
+    <img src="https://skillicons.dev/icons?i=git" title='Git' />
+    <img src="https://skillicons.dev/icons?i=npm" title='NPM' />
+    <img src="https://skillicons.dev/icons?i=vercel" title='Vercel' />
+    <img src="https://skillicons.dev/icons?i=vite" title='Vite' />
+    <img src="https://skillicons.dev/icons?i=figma" title='Figma' />
+    <img src="https://skillicons.dev/icons?i=vscode" title='Visual Code' />
+  </a>
+</p>
 
 
 
