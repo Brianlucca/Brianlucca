@@ -46,4 +46,14 @@ Eu sou um desenvolvedor de Software <img src="https://media.giphy.com/media/WUlp
 
 ---
 
+##  GitHub Packman (Contribuições)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brianlucca/Brianlucca/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brianlucca/Brianlucca/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brianlucca/Brianlucca/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
